@@ -5,7 +5,7 @@ NUMBEROFCOL = ""
 INTERVALDRECORD = ""
 STOPSETPOINT = ""
 
-#Function declaration###################
+""" #Function declaration###################
 #newFile
 def newFile():
     createnewfile
@@ -16,10 +16,12 @@ def newFile():
     close file
     save file at newFilepath()
 #locateFile
-open filelocater
-    newFilepath = filelocater
+#open filelocater
+    newFilepath = open_file() """
 
-#Loops#########################
+
+
+""" #Loops#########################
 #Generator loop
 input(NUMBEROFCOL)
 input(INTERVALDRECORD)
@@ -28,4 +30,4 @@ create new file()
     setup everything
 ask for confirmation to start generate
 log information to terminal for each generation
-
+ """
