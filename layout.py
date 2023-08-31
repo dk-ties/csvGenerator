@@ -29,6 +29,6 @@ label = Label(win, text="Click the Button to browse the Files", font=('Georgia 1
 label.pack(pady=10)
 
 # Create a Button
-ttk.Button(win, text="Browse", command=open_file).pack(pady=20)
+ttk.Button(win, text="Browse", command=open_file).pack(padx=125, pady=20)
 
 win.mainloop()
