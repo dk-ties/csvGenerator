@@ -1,0 +1,3 @@
+[submodule "vissionCell"]
+	path = vissionCell
+	url = git@github.com:dk-ties/visionCell.git
